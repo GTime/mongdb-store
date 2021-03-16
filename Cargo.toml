@@ -1,6 +1,6 @@
 [package]
 name = "mongodb-store"
-version = "0.1.1"
+version = "0.0.1"
 authors = ["Godstime Israel <godstimeisrael66@gmail.com>"]
 edition = "2018"
 description = "A Mongodb store implementation for cqrs-eventsourcing"
